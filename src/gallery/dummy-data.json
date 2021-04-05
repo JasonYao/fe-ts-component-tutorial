@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "kind": "core/ImageComponent",
+      "props": {
+        "src": "https://www.denofgeek.com/wp-content/uploads/2021/03/Tuk-Tuk-Sidekick-in-Raya-and-the-Last-Dragon.jpg?fit=1200%2C683",
+        "title": "I want this plushie"
+      }
+    },
+    {
+      "kind": "core/StyledAlternateImageComponent",
+      "props": {
+        "src": "https://www.denofgeek.com/wp-content/uploads/2021/03/Tuk-Tuk-Sidekick-in-Raya-and-the-Last-Dragon.jpg?fit=1200%2C683",
+        "title": "I want this plushie",
+        "background-color": "#ffffff"
+      }
+    }
+  ]
+}
